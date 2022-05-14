@@ -3,7 +3,6 @@ Hello Everybody I'm Earth. Data Scientist & AI Developer from Thammasat Universi
 
 ## 🛠️ My Skills
 
-
 ## 📊 My Stats
 <img align="center" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShermanZaa555&count_private=true&theme=radical" alt="ShermanZaa555"/>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ShermanZaa555&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p>
