@@ -1,5 +1,5 @@
 ### Hello!!!!!!!!!!!!!!!!! 👋
-Hello Everybody I'm Earth. Data Scientist & AI Developer from Thammasat University, Thailand
+Hello Everybody I'm Sirawith Klayratsame. You called me Earth. I come from Thammasat University. I'm looking for Data Scientist Job.
 
 ## 🛠️ My Skills
 
