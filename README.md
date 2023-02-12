@@ -2,7 +2,7 @@
 Hello Everybody I'm Sirawith Klayratsame. You called me Earth. I come from Thammasat University. I'm looking for Data Scientist Job to learn new experience and knowledge to improve my career skills in business development. I have experience in data science and AI.
 
 - 🌱 I’m currently learning Machine Learning and Deep Learning
-- ⚡ Fun fact: I like cosplaying and playing games.
+- ⚡ Hobby: I like cosplaying and playing games.
 
 ## 🛠️ My Skills
 <img src = 'https://user-images.githubusercontent.com/73089225/217259257-68381f14-d9cb-495a-9a6c-416ea0d2dbb0.png' width='60'/> <img src = 'https://user-images.githubusercontent.com/73089225/217260245-877ca808-3980-4f98-a697-0ae74b772a75.jpg' width='50'/> <img src = 'https://user-images.githubusercontent.com/73089225/217260969-3be64244-1b23-421d-a17c-05dec33e7f79.png' width='50'/> <img src = 'https://user-images.githubusercontent.com/73089225/217260989-9fd77a28-ee83-492d-9034-f2d62631f710.png' width='50'/>
